@@ -10,15 +10,15 @@ To run the project, you would typically follow these steps:
 1. **Clone the repository** : If the project is hosted on a version control system like GitHub, you would first clone the repository to your local machine.
 
 ```
-git clone https://github.com/username/project-name.git
+https://github.com/diksharma1/ScreenTimeAnalyzer.git
 ```
 
-Replace `https://github.com/username/project-name.git` with the actual URL of the repository.
+Replace `https://github.com/diksharma1/ScreenTimeAnalyzer.git` with the actual URL of the repository.
 
 2. **Navigate to the project directory** : Use the `cd` command to navigate to the project directory.
 
 ```
-cd project-name
+cd ScreenTimeAnalyzer
 ```
 
 3. **Install dependencies** : Most JavaScript projects use npm (Node Package Manager) to manage dependencies. Run the following command to install the project's dependencies:
